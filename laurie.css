@@ -1,0 +1,27 @@
+#title
+{
+background-color:teal;
+font-size: large;
+font-weight: bold;
+text-align: center;
+color: white;
+margin-right:80%;
+margin-left: 30px;
+margin-top: 0%;
+padding: 20px;
+}
+#left
+{
+       color: teal;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 80%;
+    margin-top: 30px;
+    margin-bottom: 0%;
+    font-weight: bold;
+}
+#pic
+{
+  margin:30px;
+  background-color: cadetblue;
+}
